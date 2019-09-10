@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am mayshari on github.
+  * I am maysha (https://keybase.io/maysha) on keybase.
+  * I have a public key ASCiiBsP4V_G2XvgYY9I1COh7nmuYkgPiZ4LdZoBjXlElAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a2881b0fe15fc6d97be0618f48d423a1ee79ae62480f899e0b759a018d7944940a",
+      "host": "keybase.io",
+      "kid": "0120a2881b0fe15fc6d97be0618f48d423a1ee79ae62480f899e0b759a018d7944940a",
+      "uid": "f85d02f010ba918f85b2fdf0178a2019",
+      "username": "maysha"
+    },
+    "merkle_root": {
+      "ctime": 1568134231,
+      "hash": "47f6f16d3a27b538c18dc773e8ecae779ee836183769b1474d023ee9edf8682ae5de00e392d8dc95df5147829e07b920cda04b493e0f3427b5329b9bac714fe3",
+      "hash_meta": "e6d7a2234841fdabe9e9a27a0a541dbad7af35eb5ece404987563c0dc04abd4b",
+      "seqno": 6465832
+    },
+    "service": {
+      "entropy": "50koMqD6j6D0UQcSSnLt0e9n",
+      "name": "github",
+      "username": "mayshari"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568134239,
+  "expire_in": 504576000,
+  "prev": "b42235c156fddeed03e73b55e06983ec6465c2cffea7f7928c3c6229b3fb6290",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASCiiBsP4V_G2XvgYY9I1COh7nmuYkgPiZ4LdZoBjXlElAo](https://keybase.io/maysha), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoogbD+Ffxtl74GGPSNQjoe55rmJID4meC3WaAY15RJQKp3BheWxvYWTESpcCDsQgtCI1wVb93u0D5ztV4GmD7GRlws/+p/eSjDxiKbP7YpDEIM1Ah1WqJb2Q4suozFBQz5vLXe5vpCVU5pVF70FsFhv2AgHCo3NpZ8RAtrPOF5ku8Ri/Wtn8DddG7ypbVqvdhamnIWX0LBq4DU+NLXHHAhHjoOXXpUDPnodsHdWj0S6lNN0X9ovkt0L7BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIC5pEOHWaXdV3I1j2QgUupqbIv8F9BZa+S1wXl6Z8uMbo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/maysha
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id maysha
+```
